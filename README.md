@@ -17,5 +17,5 @@ Folders:
 >
 >   >**\_\_init\_\_.py**<br/>
 >   >**types.py** imports required annotations of types<br/>
->   >**nat.py**
+>   >**nat.py** contains a model of natural numbers
 
