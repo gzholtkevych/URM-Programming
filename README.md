@@ -10,3 +10,12 @@ Files:
 > **README.md** is this file<br/>
 > **URM_en.ipynb** contains Colaboratory Notebook with working materials
 
+Folders:
+> **compy** contains used Python files<br/>
+>
+> Files:
+>
+>   >**\_\_init\_\_.py**<br/>
+>   >**types.py**<br/>
+>   >**nat.py**
+
