@@ -16,6 +16,6 @@ Folders:
 > Files:
 >
 >   >**\_\_init\_\_.py**<br/>
->   >**types.py**<br/>
+>   >**types.py** imports required annotations of types<br/>
 >   >**nat.py**
 
