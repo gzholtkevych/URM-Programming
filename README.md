@@ -2,7 +2,8 @@
 
 *Toolkit for URM Programming*
 
-**Authors:** Jingyu Yan and Grygoriy Zholtkevych
+**Authors:**
+Jingyu Yan and Grygoriy Zholtkevych
 
 ----
 
